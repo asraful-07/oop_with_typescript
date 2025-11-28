@@ -84,4 +84,4 @@ const user1 = new Parent("WVR", "UK", 24, true);
 const user2 = new UserOne("ABCD", "USA", 27, true, "Google");
 const user3 = new UserTwo("YIK", "ITY", 29, true, 123456789);
 const user4 = new UserThree("ERV", "ESN", 26, true);
-user4.great("Designer");
+user4.great("Engineer");
